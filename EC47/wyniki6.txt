@@ -1,0 +1,62 @@
+6.1:
+Bartek	Informatyka	02-12-2025
+
+6.2:
+Wiktor	2062.50
+Katarzyna	2040.00
+Bartek	1755.00
+Zuzanna	1540.00
+Jan	1520.00
+Julita	1295.00
+Maciej	1200.00
+Agnieszka	1192.50
+Zdzis³aw	1175.00
+Ewa	1100.00
+Zbigniew	1095.00
+Anna	780.00
+Patrycja	105.00
+Ola	90.00
+Piotrek	80.00
+Andrzej	60.00
+Marcin	50.00
+
+6.3:
+5
+
+6.4:
+ANDFIZ1
+
+MARMAT1
+
+ANNINF10
+
+EWAMAT14
+
+AGNINF10
+
+AGNMAT6
+
+ZBIFIZ8
+ZBIINF8
+
+ZDZFIZ8
+ZDZMAT10
+
+JULFIZ7
+JULINF11
+
+ZUZINF12
+ZUZMAT7
+
+BARINF20
+
+MACFIZ22
+
+JANFIZ24
+
+KATINF24
+
+WIKMAT29
+
+6.5:
+

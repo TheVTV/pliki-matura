@@ -1,0 +1,381 @@
+TP51
+ZAdania 2,3 robiłem w Online C++ Compiler.
+Wiem, że na maturze wszystko powinno byc inaczej zapisywane.
+1.
+1.1
+1001
+0110100110010110
+101010010101010101101010
+1.2
+7
+..
+8
+1.3.
+...
+2.
+2.1
+C++
+int max(string s)
+{
+    s=s+'#';
+    int r=0,max=0,d=0;
+    while(s[d]!='#') d++;
+    for(int i=0;i<d;i++)
+    {
+        if(s[i]>='0' && s[i]<='9')
+        r=s[i]-'0';
+        else
+        r=s[i]-'A'+10;
+        if(r>max) max=r;
+    }
+    return 16-max;
+}
+O(n)
+2.2
+2 59
+3 64
+4 79
+5 64
+6 89
+7 78
+8 54
+9 70
+10 64
+11 71
+12 60
+13 69
+14 64
+15 57
+16 58
+
+#include<bits/stdc++.h>
+using namespace std;
+int tab[100]={0};
+int max(string s)
+{
+    s=s+'#';
+    int r=0,max=0,d=0;
+    while(s[d]!='#') d++;
+    for(int i=0;i<d;i++)
+    {
+        if(s[i]>='0' && s[i]<='9')
+        r=s[i]-'0';
+        else
+        r=s[i]-'A'+10;
+        if(r>max) max=r;
+    }
+    return max;
+}
+int odw(int n)
+{
+    int r=0;
+    while(n>0)
+    {
+        r=r*10+n%10;
+        n=n/10;
+    }
+    return r;
+}
+int na10(string a, long long b)
+{
+	long long w=0,d=0;
+	a=a+'#';
+	while(a[d]!='#') d++;
+	for(long long i=0;i<d;i++)
+	{
+		long long r;
+		if(a[i]>='0' && a[i]<='9')
+		r=a[i]-'0';
+		else
+		r=a[i]-'A'+10;
+		w=w*b+r;
+	}
+	return w;
+}
+int main()
+{
+    int n;
+    string s1,s2;
+    ifstream dane("liczby.txt");
+    for(int i=0;i<1000;i++)
+    {
+        dane>>s1>>s2;
+        for(int j=2;j<=16;j++)
+        {
+            int k1=na10(s1,j);
+            int k2=na10(s2,j);
+            if(k2==odw(k1))
+            n=j;
+        }
+        tab[n]++;
+    }
+
+for(int i=2;i<=16;i++)
+{
+    cout<<i<<" "<<tab[i]<<endl;
+}
+}
+}
+2.3
+15 1863E
+
+#include<bits/stdc++.h>
+using namespace std;
+int tab[100]={0};
+int max(string s)
+{
+    s=s+'#';
+    int r=0,max=0,d=0;
+    while(s[d]!='#') d++;
+    for(int i=0;i<d;i++)
+    {
+        if(s[i]>='0' && s[i]<='9')
+        r=s[i]-'0';
+        else
+        r=s[i]-'A'+10;
+        if(r>max) max=r;
+    }
+    return max;
+}
+int odw(int n)
+{
+    int r=0;
+    while(n>0)
+    {
+        r=r*10+n%10;
+        n=n/10;
+    }
+    return r;
+}
+int na10(string a, long long b)
+{
+	long long w=0,d=0;
+	a=a+'#';
+	while(a[d]!='#') d++;
+	for(long long i=0;i<d;i++)
+	{
+		long long r;
+		if(a[i]>='0' && a[i]<='9')
+		r=a[i]-'0';
+		else
+		r=a[i]-'A'+10;
+		w=w*b+r;
+	}
+	return w;
+}
+int main()
+{
+    int n,maks=0,min=100000;
+    string s1,s2,o1,o2;
+    ifstream dane("liczby.txt");
+    for(int i=0;i<1000;i++)
+    {
+        dane>>s1>>s2;
+        int n=2;
+        for(int j=2;j<=16;j++)
+        {
+            int k1=na10(s1,j);
+            int k2=na10(s2,j);
+            if(k2==odw(k1))
+            {
+            n=j;
+            continue;
+            }
+        }
+        int p=na10(s1,n);
+        if(p>maks)
+        {
+            maks=p;
+            o1=s1;//s1 lub s2
+        }
+        if(p<min)
+        {
+            min=p;
+            o2=s1;
+        }
+    }
+
+cout<<o1<<" "<<o2;
+}
+2.4
+0 18.47%
+1 24.92%
+2 14.45%
+3 10.40%
+4 7.39%
+5 6.39%
+6 4.37%
+7 3.40%
+8 2.83%
+9 2.05%
+A 1.79%
+B 1.23%
+C 0.92%
+D 0.73%
+E 0.45%
+F 0.23%
+
+#include<bits/stdc++.h>
+using namespace std;
+double tab[100]={0};
+char tab2[20];
+int main()
+{
+    double n,maks=0,min=100000,suma=0;
+    string s1,s2,o1,o2;
+    ifstream dane("liczby.txt");
+    for(int i=0;i<1000;i++)
+    {
+        dane>>s1>>s2;
+        for(long long j=0;j<s1.size();j++)
+	{
+		long long r;
+		if(s1[j]>='0' && s1[j]<='9')
+		r=s1[j]-'0';
+		else
+		r=s1[j]-'A'+10;
+		tab[r]++;
+		tab2[r]=s1[j];
+		suma++;
+        }
+        for(long long j=0;j<s2.size();j++)
+	{
+		long long r;
+		if(s2[j]>='0' && s2[j]<='9')
+		r=s2[j]-'0';
+		else
+		r=s2[j]-'A'+10;
+		tab[r]++;
+		tab2[r]=s2[j];
+		suma++;
+        }
+        
+    }
+
+for(int i=0;i<16;i++)
+cout<<tab2[i]<<" "<<fixed<<setprecision(2)<<tab[i]/suma*100<<"%"<<endl;
+}
+3.
+3.1
+10
+8043
+1982
+7197
+7064
+714
+
+#include<bits/stdc++.h>
+using namespace std;
+int tab[10000][1000]={0};
+int roz(int n)
+{
+    long long d=2,suma=0;
+    while(d*d<=n)
+    {
+        if(n%d==0)
+        {
+            suma=suma+d;
+            n=n/d;
+        }
+        else d++;
+    }
+    if(n>1) suma=suma+n;
+    return suma;
+}
+int main()
+{
+    int n,maks=0,d=1;//max=9987
+    ifstream dane("kebab.txt");
+    for(int i=0;i<750;i++)
+    {
+        dane>>n;
+        int p=n;
+        int j=1;
+        d=1;
+        int n2=roz(n);;
+        while(n!=n2)
+        {
+            
+            n=n2;
+            n2=roz(n);
+            d++;
+        }
+    if(d>maks) maks=d;
+    }
+    cout<<maks+1<<endl;
+    dane.close();
+    ifstream dane2("kebab.txt");
+    for(int i=0;i<750;i++)
+    {
+        dane2>>n;
+        int p=n;
+        int j=1;
+        d=1;
+        int n2=roz(n);;
+        while(n!=n2)
+        {
+            
+            n=n2;
+            n2=roz(n);
+            d++;
+        }
+        if(d==maks) cout<<p<<endl;
+    }
+    
+}
+3.2
+
+4.
+FPPP
+5.
+TAk
+6.
+6.1.
+Bartek	Informatyka	02.12.2025	11:30	13:30	60	0:00	120,00
+6.2
+Wiktor	2062,5
+Katarzyna	2040
+Bartek	1755
+Zuzanna	1540
+Jan	1520
+Julita	1295
+Maciej	1200
+Agnieszka	1192,5
+Zdzisław	1175
+Ewa	1100
+Zbigniew	1095
+Anna	780
+Patrycja	105
+Ola	90
+Piotrek	80
+Andrzej	60
+Marcin	50
+6.3
+5
+6.4
+..
+7.
+7.1
+Nick	Data_rozgrywki	Tytuł	Wynik
+Klikacz69	11.06.2019	FlakiPycha	100
+7.2.
+Wyr1	PoliczOfID_rozgr
+8	178
+9	121
+10	108
+6	102
+5	96
+7	87
+3	86
+2	63
+4	62
+11	58
+1	39
+7.3
+...
+7.4.
+2
+7.5
+SELECT COUNT(*)
+FROM Gracze LEFT JOIN Turniej ON Gracze.id=Turniej.Id_gracza
+where gracze.id is NULL
