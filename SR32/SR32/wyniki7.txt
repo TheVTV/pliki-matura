@@ -1,0 +1,24 @@
+Zadanie 7.1.
+Data_rozgrywki	Nick	Tytuł	Trudność	Wynik
+19.01.2024	BananaBeat	Pęknięte Tłuczki	7	100
+
+Zadanie 7.2.
+miesiac	liczba_rozgrywek
+sierpień	178
+wrzesień	121
+październik	108
+czerwiec	102
+maj	96
+lipiec	87
+marzec	86
+luty	63
+kwiecień	62
+listopad	58
+styczeń	39
+
+Zadanie 7.3.
+Nick	Kraj	data_dolaczenia	punkty_doswiadczenia
+PolskaGurom	Polska	03.03.2021	2276556
+
+Zadanie 7.4.
+liczba_graczy: 2

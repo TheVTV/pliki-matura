@@ -1,0 +1,54 @@
+Zad. 1
+Bartek  -  Informatyka  -  02/12/2025
+
+Zad. 2
+Wiktor	2062,5
+Katarzyna	2040
+Bartek	1755
+Zuzanna	1540
+Jan	1520
+Julita	1295
+Maciej	1200
+Agnieszka	1192,5
+Zdzislaw	1175
+Ewa	1100
+Zbigniew	1095
+Anna	780
+Patrycja	105
+Ola	90
+Piotrek	80
+Andrzej	60
+Marcin	50
+
+
+Zad. 3
+5
+
+Zad. 4
+AGNINF10
+AGNMAT6
+ANDINF1
+ANNINF10
+BARINF20
+EWAMAT14
+JANFIZ24
+JULFIZ7
+JULINF11
+KATINF24
+MACFIZ22
+MARMAT1
+OLAINF1
+PATINF1
+PIOFIZ1
+WIKMAT29
+ZBIFIZ8
+ZBIINF8
+ZDZFIZ8
+ZDZMAT10
+ZUZINF12
+
+Zad. 5
+1867,69
+
+Zad. 6
+plik wykres 6_6.png

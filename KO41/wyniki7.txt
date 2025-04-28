@@ -1,0 +1,20 @@
+Zadanie 7.1
+Data_rozgrywki	Wynik	Nick	Tytuł	Trudność
+6/11/2019	100	Klikacz69	FlakiPycha	6
+
+Zadanie 7.2
+Month 	PoliczOfPoliczOfID_rozgr
+August	30
+September	28
+October	24
+May	23
+March	23
+June	23
+April	23
+July	22
+February	19
+November	16
+January	11
+
+Zadanie 7.4
+2

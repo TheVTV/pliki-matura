@@ -1,0 +1,26 @@
+7.1.
+Data: 11 czerwca 2019
+Nick gracza: Klikacz69
+Nazwa mapy: FlakiPycha
+Trudność mapy: 6
+
+7.2.
+Wyr3	PoliczOfWyr3
+ 8- 2020	178
+ 9- 2020	121
+ 10- 2020	108
+ 6- 2020	102
+ 5- 2020	96
+ 7- 2020	87
+ 3- 2020	86
+ 2- 2020	63
+ 4- 2020	62
+ 11- 2020	58
+ 1- 2020	39
+
+7.3.
+nwm
+
+7.4.
+PoliczOf7_4 1_ID_gracza
+2

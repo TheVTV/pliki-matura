@@ -1,0 +1,53 @@
+zadanie 6.1.
+Bartek	Informatyka	02.12.2025
+
+zadanie 6.2.
+Imię kursanta	Suma za korepetycje
+Wiktor	2 062,50 zł
+Katarzyna	2 040,00 zł
+Bartek	1 755,00 zł
+Zuzanna	1 540,00 zł
+Jan	1 520,00 zł
+Julita	1 295,00 zł
+Maciej	1 200,00 zł
+Agnieszka	1 192,50 zł
+Zdzisław	1 175,00 zł
+Ewa	1 100,00 zł
+Zbigniew	1 095,00 zł
+Anna	780,00 zł
+Patrycja	105,00 zł
+Ola	90,00 zł
+Piotrek	80,00 zł
+Andrzej	60,00 zł
+Marcin	50,00 zł
+
+zadanie 6.3.
+5
+
+zadanie 6.4.
+AGNINF10
+AGNMAT6
+ANDINF1
+ANNINF10
+BARINF20
+EWAMAT14
+JANFIZ24
+JULFIZ7
+JULINF11
+KATINF24
+MACFIZ22
+MARMAT1
+OLAINF1
+PATINF1
+PIOFIZ1
+WIKMAT29
+ZBIFIZ8
+ZBIINF8
+ZDZFIZ8
+ZDZMAT10
+ZUZINF12
+ZUZMAT7
+
+zadanie 6.5.
+2071,08 zł
+

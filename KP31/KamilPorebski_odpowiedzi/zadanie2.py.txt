@@ -1,0 +1,53 @@
+n = 1000
+seq = [input().split() for _ in range(n)]
+
+result = dict()
+
+max_liczba = 0
+min_liczba = 10000000000000000000000000000000000
+
+
+for i in seq:
+    for x in range(17, 2, -1):
+        test = int(i[1], x)
+        test = f"{test}"[::-1]
+        test = int(test)
+
+        if test == int(i[0], x):
+
+            if int(i[1], x) > max_liczba:
+                max_liczba = int(i[1], x)
+            if int(i[1], x) < min_liczba:
+                min_liczba = int(i[1], x)
+            if int(i[0], x) > max_liczba:
+                max_liczba = int(i[0], x)
+            if int(i[0], x) < min_liczba:
+                min_liczba = int(i[0], x)
+
+
+            break
+
+
+print(max_liczba, min_liczba)
+
+
+n = 50
+seq = [input().split() for _ in range(n)]
+
+result = dict()
+
+
+for i in seq:
+    for x in range(17, 2, -1):
+        test = int(i[1], x)
+        test = f"{test}"[::-1]
+        test = int(test)
+
+        if test == int(i[0], x):
+            result[x] = result.get(x, 0) + 1
+            break
+
+print(result)
+
+for i in sorted(result):
+    print(f"{i}: {result[i]}")

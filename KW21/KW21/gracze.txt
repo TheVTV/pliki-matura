@@ -1,0 +1,21 @@
+ID;Nick;Data_dołączenia;Kraj
+1;Tapcio;01-12-2020;Polska
+2;Rytmiś;03-23-2021;Polska
+3;Klikacz69;05-17-2019;Polska
+4;Osuwacz;02-08-2022;Polska
+5;DJZakręt;06-30-2020;Polska
+6;BananaBeat;09-21-2023;USA
+7;Lagomaster3000;11-11-2022;Kanada
+8;MissClickette;10-19-2021;Francja
+9;DerTapfen;08-03-2020;Niemcy
+10;SeñorCombo;12-25-2022;Hiszpania
+11;PolskaGurom;03-03-2021;Polska
+12;NieTrafiam;06-06-2020;Polska
+13;ZłyZakręt;08-08-2018;Polska
+14;MikuTapper;04-14-2019;Japonia
+15;ComboFrog;07-07-2022;Australia
+16;BitaPiątka;05-09-2022;Polska
+17;AiméTouché;09-29-2023;Francja
+18;Przypadek;09-09-2021;Polska
+19;TapnalemXD;02-14-2020;Polska
+20;SpeedyZuko;01-01-2024;Korea Południowa

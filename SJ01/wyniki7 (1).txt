@@ -1,0 +1,39 @@
+7.1
+
+Data_rozgrywki	Wynik	Nick		Tytul		Trudnosc
+11.06.2019	100	Klikacz69	FlakiPycha	6
+
+7.2
+
+Miesiące	PoliczOfID_rozgr
+8	178
+9	121
+10	108
+6	102
+5	96
+7	87
+3	86
+2	63
+4	62
+11	58
+1	39
+12	0
+
+(liczba w kolumnie miesiące odpowiada numerowi miesiąca)
+
+7.3
+
+ID_gracza	Nick		Kraj	Data_dołączenia	Punkty dosw
+7		Lagomaster3000	Kanada	11.11.2022	107566
+
+7.4
+
+2 graczy
+
+7.5
+
+
+SELECT Count(Turniej.ID_gracza)
+FROM Turniej RIGHT JOIN Gracze ON Turniej.ID_gracza = Gracze.ID
+WHERE (((Turniej.ID_gracza) Is Null));
+

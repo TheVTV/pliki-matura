@@ -1,0 +1,24 @@
+1)
+Data_rozgrywki	Nick	ID	Trudność
+11.06.2019	Klikacz69	6	6
+
+2)
+Wyr1	PoliczOfID_rozgr
+1	300
+2	227
+3	333
+4	373
+5	406
+6	307
+7	329
+8	381
+9	266
+10	416
+11	343
+12	319
+
+3)
+SumaOfWyr1	Nick	Data_dołączenia	Kraj
+2276556	PolskaGurom	03.03.2021	Polska
+
+4) 2

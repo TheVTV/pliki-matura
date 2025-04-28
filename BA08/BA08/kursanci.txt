@@ -1,0 +1,236 @@
+Imiê kursanta	Przedmiot	Data	Godzina rozpoczêcia	Godzina zakoñczenia	Stawka za godzinê			#ADR!			
+Agnieszka	Matematyka	13-01-2026	09:00	11:00	50		100	100	Agnieszka		100
+Agnieszka	Matematyka	13-11-2025	13:30	15:15	50		50	150	Agnieszka		160
+Agnieszka	Matematyka	15-01-2026	14:30	16:15	50		50	200	Agnieszka		220
+Agnieszka	Matematyka	23-01-2026	11:15	12:45	50		50	250	Agnieszka		280
+Agnieszka	Matematyka	27-02-2026	14:15	15:45	50		50	300	Agnieszka		340
+Agnieszka	Matematyka	07-10-2025	09:00	10:15	50		50	360	Agnieszka		400
+Agnieszka	Informatyka	06-11-2025	15:30	17:00	60		60	420	Agnieszka		460
+Agnieszka	Informatyka	07-11-2025	10:45	12:15	60		60	480	Agnieszka		520
+Agnieszka	Informatyka	10-12-2025	13:00	14:15	60		60	540	Agnieszka		580
+Agnieszka	Informatyka	12-11-2025	13:45	15:00	60		60	600	Agnieszka		640
+Agnieszka	Informatyka	25-11-2025	09:00	10:15	60		60	660	Agnieszka		690
+Agnieszka	Informatyka	11-02-2026	13:15	14:15	60		60	720	Agnieszka		740
+Agnieszka	Informatyka	11-11-2025	11:15	12:15	60		60	780	Agnieszka		790
+Agnieszka	Informatyka	22-10-2025	10:45	11:45	60		60	840	Agnieszka		840
+Agnieszka	Informatyka	23-01-2026	09:00	10:00	60		60	900	Agnieszka		890
+Agnieszka	Informatyka	26-11-2025	09:00	10:00	60		60	960	Agnieszka	Agnieszka	950
+Andrzej	Informatyka	19-11-2025	11:15	12:15	60		60	60	Andrzej	Andrzej	60
+Anna	Informatyka	07-01-2026	11:15	13:00	60		60	60	Anna		60
+Anna	Informatyka	10-12-2025	10:30	12:00	60		60	120	Anna		120
+Anna	Informatyka	18-02-2026	14:00	15:30	60		60	180	Anna		180
+Anna	Informatyka	19-01-2026	11:00	12:30	60		60	240	Anna		240
+Anna	Informatyka	11-02-2026	10:45	12:00	60		60	300	Anna		300
+Anna	Informatyka	12-01-2026	10:45	12:00	60		60	360	Anna		360
+Anna	Informatyka	22-01-2026	09:00	10:15	60		60	420	Anna		420
+Anna	Informatyka	05-01-2026	13:45	14:45	60		60	480	Anna		480
+Anna	Informatyka	12-01-2026	12:00	13:00	60		60	540	Anna		540
+Anna	Informatyka	16-12-2025	09:00	10:00	60		60	660	Anna	Anna	660
+Bartek	Informatyka	02-12-2025	11:30	13:30	60		120	120	Bartek		120
+Bartek	Informatyka	05-01-2026	09:00	10:45	60		60	180	Bartek		180
+Bartek	Informatyka	12-12-2025	11:30	13:15	60		60	240	Bartek		240
+Bartek	Informatyka	13-01-2026	15:45	17:30	60		60	300	Bartek		300
+Bartek	Informatyka	17-11-2025	11:30	13:15	60		60	360	Bartek		360
+Bartek	Informatyka	24-02-2026	10:30	12:15	60		60	420	Bartek		420
+Bartek	Informatyka	31-10-2025	14:30	16:15	60		60	480	Bartek		480
+Bartek	Informatyka	05-02-2026	13:45	15:15	60		60	540	Bartek		540
+Bartek	Informatyka	06-11-2025	09:00	10:30	60		60	600	Bartek		600
+Bartek	Informatyka	10-10-2025	10:30	12:00	60		60	660	Bartek		660
+Bartek	Informatyka	10-10-2025	14:15	15:45	60		60	720	Bartek		720
+Bartek	Informatyka	17-11-2025	13:30	15:00	60		60	780	Bartek		780
+Bartek	Informatyka	18-02-2026	11:30	13:00	60		60	840	Bartek		840
+Bartek	Informatyka	15-01-2026	11:00	12:15	60		60	900	Bartek		900
+Bartek	Informatyka	20-02-2026	09:00	10:15	60		60	960	Bartek		960
+Bartek	Informatyka	20-02-2026	10:30	11:45	60		60	1020	Bartek		1020
+Bartek	Informatyka	01-10-2025	09:00	10:00	60		60	1080	Bartek		1080
+Bartek	Informatyka	12-11-2025	12:45	13:45	60		60	1140	Bartek		1140
+Bartek	Informatyka	24-10-2025	09:00	10:00	60		60	1200	Bartek		1200
+Bartek	Informatyka	26-11-2025	16:30	17:30	60		60	1300	Bartek	Bartek	1300
+Ewa	Matematyka	03-02-2026	14:00	16:00	50		100	100	Ewa		100
+Ewa	Matematyka	12-01-2026	13:15	15:15	50		100	200	Ewa		200
+Ewa	Matematyka	14-01-2026	11:15	13:15	50		100	300	Ewa		300
+Ewa	Matematyka	15-01-2026	09:00	11:00	50		100	350	Ewa		350
+Ewa	Matematyka	03-12-2025	09:00	10:45	50		50	400	Ewa		400
+Ewa	Matematyka	06-11-2025	11:00	12:45	50		50	450	Ewa		450
+Ewa	Matematyka	19-11-2025	09:00	10:45	50		50	500	Ewa		500
+Ewa	Matematyka	19-11-2025	15:45	17:15	50		50	550	Ewa		550
+Ewa	Matematyka	13-02-2026	12:30	13:45	50		50	600	Ewa		600
+Ewa	Matematyka	14-10-2025	09:00	10:15	50		50	650	Ewa		650
+Ewa	Matematyka	15-10-2025	09:00	10:15	50		50	700	Ewa		700
+Ewa	Matematyka	20-02-2026	14:30	15:45	50		50	750	Ewa		750
+Ewa	Matematyka	22-01-2026	10:30	11:45	50		50	800	Ewa		800
+Ewa	Matematyka	03-12-2025	13:45	14:45	50		50	800	Ewa	Ewa	800
+Jan	Fizyka	06-02-2026	15:30	17:30	40						
+Jan	Fizyka	06-10-2025	09:00	11:00	40		80	80			
+Jan	Fizyka	13-10-2025	15:00	17:00	40		80	160			
+Jan	Fizyka	14-11-2025	12:15	14:15	40		80	240			
+Jan	Fizyka	17-02-2026	13:15	15:15	40		80	320			
+Jan	Fizyka	17-11-2025	09:00	11:00	40		80	400			
+Jan	Fizyka	20-02-2026	12:15	14:15	40		80	480			
+Jan	Fizyka	20-11-2025	10:00	12:00	40		80	520			
+Jan	Fizyka	08-10-2025	12:30	14:15	40		40	560			
+Jan	Fizyka	08-12-2025	11:15	13:00	40		40	600			
+Jan	Fizyka	03-02-2026	16:00	17:30	40		40	640			
+Jan	Fizyka	08-10-2025	10:45	12:15	40		40	680			
+Jan	Fizyka	10-12-2025	16:15	17:45	40		40	720			
+Jan	Fizyka	20-10-2025	15:15	16:45	40		40	760			
+Jan	Fizyka	23-01-2026	13:45	15:15	40		40	800			
+Jan	Fizyka	24-11-2025	09:00	10:30	40		40	840			
+Jan	Fizyka	10-11-2025	09:00	10:15	40		40	880			
+Jan	Fizyka	10-11-2025	10:15	11:30	40		40	920			
+Jan	Fizyka	11-02-2026	09:00	10:15	40		40	960			
+Jan	Fizyka	12-12-2025	09:00	10:15	40		40	1000			
+Jan	Fizyka	13-10-2025	11:15	12:30	40		40	1040			
+Jan	Fizyka	28-11-2025	11:30	12:45	40		40	1080			
+Jan	Fizyka	14-01-2026	13:45	14:45	40		40	1120			
+Jan	Fizyka	23-01-2026	10:00	11:00	40		40	1180			
+Julita	Informatyka	03-02-2026	11:15	13:00	60		60	60	Julita	Julita	60
+Julita	Informatyka	10-02-2026	10:45	12:30	60		60	120	Julita		120
+Julita	Informatyka	12-01-2026	15:30	17:15	60		60	180	Julita		180
+Julita	Informatyka	12-11-2025	11:00	12:30	60		60	240	Julita		240
+Julita	Informatyka	03-02-2026	09:00	10:15	60		60	300	Julita		300
+Julita	Informatyka	12-02-2026	13:15	14:30	60		60	360	Julita		360
+Julita	Informatyka	13-02-2026	09:00	10:15	60		60	420	Julita		420
+Julita	Informatyka	13-10-2025	17:00	18:15	60		60	480	Julita		480
+Julita	Informatyka	10-12-2025	14:45	15:45	60		60	540	Julita		540
+Julita	Informatyka	20-01-2026	10:30	11:30	60		60	600	Julita		600
+Julita	Informatyka	20-10-2025	14:00	15:00	60		60	680	Julita		680
+Julita	Fizyka	13-01-2026	13:00	15:00	40		80	760			
+Julita	Fizyka	26-02-2026	09:00	11:00	40		80	800			
+Julita	Fizyka	21-01-2026	09:00	10:45	40		40	840			
+Julita	Fizyka	14-11-2025	09:00	10:15	40		40	880			
+Julita	Fizyka	23-02-2026	09:00	10:15	40		40	920			
+Julita	Fizyka	05-12-2025	11:00	12:00	40		40	960			
+Julita	Fizyka	11-11-2025	09:00	10:00	40		40	1020			
+Katarzyna	Informatyka	05-02-2026	11:00	12:45	60		60	60	Katarzyna	Katarzyna	60
+Katarzyna	Informatyka	05-12-2025	09:00	10:45	60		60	120	Katarzyna		120
+Katarzyna	Informatyka	07-10-2025	11:00	12:45	60		60	180	Katarzyna		180
+Katarzyna	Informatyka	10-02-2026	16:45	18:30	60		60	240	Katarzyna		240
+Katarzyna	Informatyka	04-02-2026	12:00	13:30	60		60	300	Katarzyna		300
+Katarzyna	Informatyka	05-01-2026	11:30	13:00	60		60	360	Katarzyna		360
+Katarzyna	Informatyka	05-01-2026	17:30	19:00	60		60	420	Katarzyna		420
+Katarzyna	Informatyka	05-02-2026	09:00	10:30	60		60	480	Katarzyna		480
+Katarzyna	Informatyka	12-11-2025	15:45	17:15	60		60	540	Katarzyna		540
+Katarzyna	Informatyka	14-01-2026	09:00	10:30	60		60	600	Katarzyna		600
+Katarzyna	Informatyka	15-12-2025	09:30	11:00	60		60	660	Katarzyna		660
+Katarzyna	Informatyka	15-12-2025	11:15	12:45	60		60	720	Katarzyna		720
+Katarzyna	Informatyka	19-01-2026	13:00	14:30	60		60	780	Katarzyna		780
+Katarzyna	Informatyka	24-11-2025	14:30	16:00	60		60	840	Katarzyna		840
+Katarzyna	Informatyka	26-02-2026	12:30	14:00	60		60	900	Katarzyna		900
+Katarzyna	Informatyka	27-01-2026	12:30	14:00	60		60	960	Katarzyna		960
+Katarzyna	Informatyka	31-10-2025	10:45	12:15	60		60	1020	Katarzyna		1020
+Katarzyna	Informatyka	09-12-2025	09:00	10:15	60		60	1080	Katarzyna		1080
+Katarzyna	Informatyka	15-10-2025	10:15	11:30	60		60	1140	Katarzyna		1140
+Katarzyna	Informatyka	04-02-2026	09:00	10:00	60		60	1200	Katarzyna		1200
+Katarzyna	Informatyka	07-11-2025	09:00	10:00	60		60	1260	Katarzyna		1260
+Katarzyna	Informatyka	08-10-2025	09:00	10:00	60		60	1320	Katarzyna		1320
+Katarzyna	Informatyka	10-02-2026	09:00	10:00	60		60	1380	Katarzyna		1380
+Katarzyna	Informatyka	10-10-2025	12:45	13:45	60		60	1460	Katarzyna		1460
+Maciej	Fizyka	13-11-2025	09:00	11:00	40		80	80			
+Maciej	Fizyka	26-11-2025	13:45	15:45	40		80	120			
+Maciej	Fizyka	19-11-2025	13:00	14:45	40		40	160			
+Maciej	Fizyka	27-02-2026	09:00	10:45	40		40	200			
+Maciej	Fizyka	29-01-2026	10:30	12:15	40		40	240			
+Maciej	Fizyka	31-10-2025	12:45	14:30	40		40	280			
+Maciej	Fizyka	03-12-2025	11:30	13:00	40		40	320			
+Maciej	Fizyka	10-12-2025	09:00	10:30	40		40	360			
+Maciej	Fizyka	13-11-2025	11:15	12:45	40		40	400			
+Maciej	Fizyka	20-01-2026	09:00	10:30	40		40	440			
+Maciej	Fizyka	14-10-2025	11:30	12:45	40		40	480			
+Maciej	Fizyka	18-11-2025	10:30	11:45	40		40	520			
+Maciej	Fizyka	19-01-2026	15:15	16:30	40		40	560			
+Maciej	Fizyka	26-02-2026	11:00	12:15	40		40	600			
+Maciej	Fizyka	03-12-2025	18:00	19:00	40		40	640			
+Maciej	Fizyka	11-02-2026	14:15	15:15	40		40	680			
+Maciej	Fizyka	12-11-2025	09:00	10:00	40		40	720			
+Maciej	Fizyka	13-02-2026	11:00	12:00	40		40	760			
+Maciej	Fizyka	14-10-2025	10:30	11:30	40		40	800			
+Maciej	Fizyka	24-10-2025	10:30	11:30	40		40	840			
+Maciej	Fizyka	24-11-2025	12:30	13:30	40		40	880			
+Maciej	Fizyka	28-01-2026	09:00	10:00	40		40	930			
+Marcin	Matematyka	02-12-2025	09:00	10:00	50		50	50	Marcin	Marcin	50
+Ola	Informatyka	20-02-2026	16:45	18:15	60		60	60	Ola	Ola	60
+Patrycja	Informatyka	08-12-2025	09:00	10:45	60		60	60	Patrycja	Patrycja	60
+Piotrek	Fizyka	13-11-2025	16:00	18:00	40		80	80			
+Wiktor	Matematyka	05-11-2025	10:00	12:00	50		100	100	Wiktor	Wiktor	100
+Wiktor	Matematyka	06-02-2026	11:00	13:00	50		100	200	Wiktor		200
+Wiktor	Matematyka	13-10-2025	12:45	14:45	50		100	300	Wiktor		300
+Wiktor	Matematyka	19-02-2026	09:00	11:00	50		100	350	Wiktor		350
+Wiktor	Matematyka	02-10-2025	09:00	10:45	50		50	400	Wiktor		400
+Wiktor	Matematyka	10-02-2026	13:30	15:15	50		50	450	Wiktor		450
+Wiktor	Matematyka	13-02-2026	14:30	16:15	50		50	500	Wiktor		500
+Wiktor	Matematyka	17-02-2026	10:30	12:15	50		50	550	Wiktor		550
+Wiktor	Matematyka	22-01-2026	16:00	17:45	50		50	600	Wiktor		600
+Wiktor	Matematyka	12-01-2026	09:00	10:30	50		50	650	Wiktor		650
+Wiktor	Matematyka	14-10-2025	12:45	14:15	50		50	700	Wiktor		700
+Wiktor	Matematyka	15-01-2026	12:30	14:00	50		50	750	Wiktor		750
+Wiktor	Matematyka	16-02-2026	11:30	13:00	50		50	800	Wiktor		800
+Wiktor	Matematyka	18-02-2026	09:00	10:30	50		50	850	Wiktor		850
+Wiktor	Matematyka	19-01-2026	09:00	10:30	50		50	900	Wiktor		900
+Wiktor	Matematyka	20-10-2025	09:00	10:30	50		50	950	Wiktor		950
+Wiktor	Matematyka	29-01-2026	09:00	10:30	50		50	1000	Wiktor		1000
+Wiktor	Matematyka	09-02-2026	09:00	10:15	50		50	1050	Wiktor		1050
+Wiktor	Matematyka	14-11-2025	10:30	11:45	50		50	1100	Wiktor		1100
+Wiktor	Matematyka	04-02-2026	14:15	15:15	50		50	1150	Wiktor		1150
+Wiktor	Matematyka	05-11-2025	09:00	10:00	50		50	1200	Wiktor		1200
+Wiktor	Matematyka	06-10-2025	11:30	12:30	50		50	1250	Wiktor		1250
+Wiktor	Matematyka	07-01-2026	14:00	15:00	50		50	1300	Wiktor		1300
+Wiktor	Matematyka	10-10-2025	09:00	10:00	50		50	1350	Wiktor		1350
+Wiktor	Matematyka	11-02-2026	12:00	13:00	50		50	1400	Wiktor		1400
+Wiktor	Matematyka	20-11-2025	09:00	10:00	50		50	1450	Wiktor		1450
+Wiktor	Matematyka	20-11-2025	14:15	15:15	50		50	1500	Wiktor		1500
+Wiktor	Matematyka	22-01-2026	14:15	15:15	50		50	1550	Wiktor		1550
+Wiktor	Matematyka	23-01-2026	15:45	16:45	50		50	1610	Wiktor		1610
+Zbigniew	Informatyka	15-10-2025	12:15	14:00	60		60	60	Zbigniew	Zbigniew	60
+Zbigniew	Informatyka	31-10-2025	09:00	10:45	60		60	120	Zbigniew		120
+Zbigniew	Informatyka	12-02-2026	09:30	11:00	60		60	180	Zbigniew		180
+Zbigniew	Informatyka	24-11-2025	16:30	18:00	60		60	240	Zbigniew		240
+Zbigniew	Informatyka	17-02-2026	09:00	10:15	60		60	300	Zbigniew		300
+Zbigniew	Informatyka	02-12-2025	10:30	11:30	60		60	360	Zbigniew		360
+Zbigniew	Informatyka	12-12-2025	10:30	11:30	60		60	420	Zbigniew		420
+Zbigniew	Informatyka	29-01-2026	12:45	13:45	60		60	460	Zbigniew		460
+Zbigniew	Fizyka	06-11-2025	13:45	15:30	40		40	500			
+Zbigniew	Fizyka	07-01-2026	09:00	10:45	40		40	540			
+Zbigniew	Fizyka	16-02-2026	09:00	10:30	40		40	580			
+Zbigniew	Fizyka	24-02-2026	09:00	10:30	40		40	620			
+Zbigniew	Fizyka	07-10-2025	13:30	14:45	40		40	660			
+Zbigniew	Fizyka	11-12-2025	09:00	10:15	40		40	700			
+Zbigniew	Fizyka	24-11-2025	10:45	12:00	40		40	740			
+Zbigniew	Fizyka	20-11-2025	12:45	13:45	40		40	840			
+Zdzis³aw	Matematyka	17-11-2025	16:15	18:15	50		100	100	Zdzis³aw	Zdzis³aw	100
+Zdzis³aw	Matematyka	20-10-2025	11:00	13:00	50		100	150	Zdzis³aw		150
+Zdzis³aw	Matematyka	06-02-2026	09:00	10:45	50		50	200	Zdzis³aw		200
+Zdzis³aw	Matematyka	03-12-2025	15:45	17:15	50		50	250	Zdzis³aw		250
+Zdzis³aw	Matematyka	22-10-2025	09:00	10:15	50		50	300	Zdzis³aw		300
+Zdzis³aw	Matematyka	09-12-2025	10:30	11:30	50		50	350	Zdzis³aw		350
+Zdzis³aw	Matematyka	10-02-2026	15:30	16:30	50		50	400	Zdzis³aw		400
+Zdzis³aw	Matematyka	13-01-2026	11:00	12:00	50		50	450	Zdzis³aw		450
+Zdzis³aw	Matematyka	14-10-2025	14:30	15:30	50		50	500	Zdzis³aw		500
+Zdzis³aw	Matematyka	20-11-2025	15:15	16:15	50		50	580	Zdzis³aw		580
+Zdzis³aw	Fizyka	21-01-2026	11:45	13:45	40		80	660			
+Zdzis³aw	Fizyka	27-01-2026	09:00	11:00	40		80	700			
+Zdzis³aw	Fizyka	26-11-2025	11:00	12:45	40		40	740			
+Zdzis³aw	Fizyka	27-02-2026	11:00	12:45	40		40	780			
+Zdzis³aw	Fizyka	04-02-2026	10:15	11:45	40		40	820			
+Zdzis³aw	Fizyka	24-02-2026	12:30	14:00	40		40	860			
+Zdzis³aw	Fizyka	05-02-2026	12:45	13:45	40		40	900			
+Zdzis³aw	Fizyka	23-10-2025	09:00	10:00	40		40	1000			
+Zuzanna	Matematyka	02-10-2025	11:15	13:15	50		100	100	Zuzanna	Zuzanna	100
+Zuzanna	Matematyka	21-10-2025	09:00	11:00	50		100	200	Zuzanna		200
+Zuzanna	Matematyka	22-01-2026	11:45	13:45	50		100	250	Zuzanna		250
+Zuzanna	Matematyka	17-02-2026	15:15	16:45	50		50	300	Zuzanna		300
+Zuzanna	Matematyka	05-01-2026	15:30	16:45	50		50	350	Zuzanna		350
+Zuzanna	Matematyka	12-02-2026	11:00	12:15	50		50	400	Zuzanna		400
+Zuzanna	Matematyka	06-11-2025	17:00	18:00	50		50	460	Zuzanna		460
+Zuzanna	Informatyka	21-10-2025	11:30	13:15	60		60	520	Zuzanna		520
+Zuzanna	Informatyka	03-11-2025	09:00	10:30	60		60	580	Zuzanna		580
+Zuzanna	Informatyka	05-11-2025	12:30	14:00	60		60	640	Zuzanna		640
+Zuzanna	Informatyka	05-12-2025	12:45	14:15	60		60	700	Zuzanna		700
+Zuzanna	Informatyka	13-10-2025	09:30	11:00	60		60	760	Zuzanna		760
+Zuzanna	Informatyka	26-01-2026	09:00	10:30	60		60	820	Zuzanna		820
+Zuzanna	Informatyka	28-11-2025	09:30	11:00	60		60	880	Zuzanna		880
+Zuzanna	Informatyka	11-11-2025	10:00	11:15	60		60	940	Zuzanna		940
+Zuzanna	Informatyka	11-12-2025	10:30	11:45	60		60	1000	Zuzanna		1000
+Zuzanna	Informatyka	27-02-2026	12:45	14:00	60		60	1060	Zuzanna		1060
+Zuzanna	Informatyka	06-02-2026	13:45	14:45	60		60	1120	Zuzanna		1120
+Zuzanna	Informatyka	18-11-2025	09:00	10:00	60		60	1120	Zuzanna	Zuzanna	1120

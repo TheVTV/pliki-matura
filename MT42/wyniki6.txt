@@ -1,0 +1,83 @@
+zad 6.1
+Bartek, Informatyka, 02.12.2025 
+
+zad 6.2 
+-Agnieszka 1192,5  
+-Andrzej 60 
+-Anna 780 
+-Bartek 1755 
+-Ewa 1100 
+-Jan 1520 
+-Julita 1295 
+-Katarzyna 2040 
+-Maciej 1200 
+-Marcin 50 
+-Ola 90 
+-Patrycja 105 
+-Piotrek 80 
+-Wiktor 2062,5 
+-Zbigniew 1095 
+-Zdzisław 1175 
+-Zuzanna 1540
+
+zad 6.3 
+5 kursantów 
+
+zad 6.4
+AGNINF16
+AGNMAT
+ANDINF1
+ANNINF10
+BARINF20
+EWAMAT14
+JANFIZ24
+JULFIZ18
+JULINF18
+KATINF24
+MACFIZ22
+MARMAT1
+OLAINF1
+PATINF1
+PIOFIZ1
+WIKMAT29
+ZBIFIZ16
+ZBIINF16
+ZDZFIZ18
+ZUZMAT19
+ZUZINF19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

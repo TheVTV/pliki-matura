@@ -1,0 +1,49 @@
+1)
+Bartek	Informatyka	02.12.2025
+
+
+2)
+Wiktor	2062,5
+Katarzyna	2040
+Bartek	1755
+Zuzanna	1540
+Jan	1520
+Julita	1295
+Maciej	1200
+Agnieszka	1192,5
+Zdzisław	1175
+Ewa	1100
+Zbigniew	1095
+Anna	780
+Patrycja	105
+Ola	90
+Piotrek	80
+Andrzej	60
+Marcin	50
+
+
+3) 5
+
+4)
+AgnInf16
+AgnMat16
+AndInf1
+AnnInf10
+BarInf20
+EwaMat14
+InfMat12
+JanFiz24
+JulFiz18
+JulInf18
+KatInf24
+MacFiz22
+MarMat1
+OlaInf1
+PatInf1
+PioFiz1
+WikMat29
+ZbiFiz16
+ZbiFiz16
+ZdzFiz18
+ZdzFiz18
+ZuzInf19

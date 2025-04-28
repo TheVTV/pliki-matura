@@ -1,0 +1,20 @@
+6.1 Bartek Informatyka 02-12-2025
+6.2 
+Wiktor 1610
+Katarzyna 1460
+Bartek 1300
+Jan 1280
+Zuzanna	1070
+Julita 1000
+Zdzisław 1000
+Agnieszka 950
+Maciej 930
+Zbigniew 840
+Ewa 800
+Anna 660
+Piotrek 80
+Andrzej 60
+Ola 60
+Patrycja 60
+Marcin 50
+6.3 5

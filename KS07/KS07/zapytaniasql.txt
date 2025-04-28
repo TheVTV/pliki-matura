@@ -1,0 +1,16 @@
+Zadanie 7.1
+SELECT rozgrywki_txt.Data_rozgrywki, gracze_txt.Nick, mapy_txt.Tytuł, mapy_txt.Trudność FROM gracze_txt
+JOIN rozgrywki_txt ON gracze_txt.ID = rozgrywki_txt.ID_gracza
+JOIN mapy_txt ON rozgrywki_txt.ID_mapy = mapy_txt.ID
+WHERE rozgrywki_txt.Wynik LIKE "100.00"
+ORDER BY rozgrywki_txt.ID_rozgr LIMIT 1;
+
+Zadanie 7.4
+SELECT COUNT(DISTINCT gracze_txt.ID)from gracze_txt
+JOIN rozgrywki_txt ON gracze_txt.ID = rozgrywki_txt.ID_gracza
+JOIN mapy_txt ON rozgrywki_txt.ID_mapy = mapy_txt.ID
+WHERE Tytuł LIKE "MEGALOMAŁA" AND gracze_txt.ID NOT IN (SELECT gracze_txt.ID FROM gracze_txt
+JOIN rozgrywki_txt ON gracze_txt.ID = rozgrywki_txt.ID_gracza
+JOIN mapy_txt ON rozgrywki_txt.ID_mapy = mapy_txt.ID
+WHERE mapy_txt.Tytuł LIKE "Ulica Rockefellera (Turbo Mix)");
+

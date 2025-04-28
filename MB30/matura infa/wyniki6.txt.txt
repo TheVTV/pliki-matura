@@ -1,0 +1,47 @@
+zadanie 6.1 
+Bartek informatyka 02.12.2025
+zad 6.2
+Etykiety wierszy	Suma z pieniadze za godziny
+Wiktor	2062,50
+Katarzyna	2040,00
+Bartek	1755,00
+Zuzanna	1540,00
+Jan	1520,00
+Julita	1295,00
+Maciej	1200,00
+Agnieszka	1192,50
+Zdzisław	1175,00
+Ewa	1100,00
+Zbigniew	1095,00
+Anna	780,00
+Patrycja	105,00
+Ola	90,00
+Piotrek	80,00
+Andrzej	60,00
+Marcin	50,00
+zad 6.3 
+5
+zad 6.4 
+AGNINF16
+AGNMAT16
+ANDINF1
+ANNINF10
+BARINF20
+EWAMAT14
+JANFIZ24
+JULFIZ18
+JULINF18
+KATINF24
+MACFIZ22
+MARMAT1
+OLAINF1
+PATINF1
+PIOFIZ1
+WIKMAT29
+ZBIFIZ16
+ZBIINF16
+ZDZFIZ18
+ZDZMAT18
+ZUZINF19
+ZUZMAT19
+

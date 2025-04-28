@@ -1,0 +1,48 @@
+zadanie 6.1
+Bartek Informatyka 02-12-2025
+
+Zadanie 6.2
+Wiktor	1897.5
+Katarzyna	1800
+Bartek	1557
+Jan	1424
+Zuzanna	1412
+Julita	1185
+Zdzis³aw	1105
+Maciej	1104
+Agnieszka	1095.5
+Ewa	1020
+Zbigniew	977
+Anna	708
+Patrycja	87
+Piotrek	80
+Ola	78
+Andrzej	60
+Marcin	50
+
+Zadanie 6.3
+5
+
+Zadanie 6.4
+AGNINF10
+AGNMAT6
+ANDINF1
+ANNINF10
+BARINF20
+EWAMAT14
+JANFIZ24
+JULFIZ7
+JULINF11
+KATINF24
+MACFIZ22
+MARMAT1
+OLAINF1
+PATINF1
+PIOFIZ1
+WIKMAT29
+ZBIFIZ8
+ZBIINF8
+ZDZFIZ8
+ZDZMAT10
+ZUZINF12
+ZUZMAT7

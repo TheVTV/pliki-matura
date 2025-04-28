@@ -1,0 +1,24 @@
+7.1 
+Data_rozgrywki	Nick	TrudnoĹ›Ä‡	TytuĹ‚
+11.06.2019	Klikacz69	6	FlakiPycha
+
+7.2
+ile_rozegrano_rozgr	miesiąć_liczbowo
+39	1
+63	2
+86	3
+62	4
+96	5
+102	6
+87	7
+178	8
+121	9
+108	10
+58	11
+
+7.3
+
+7.4
+ile_graczy
+2
+

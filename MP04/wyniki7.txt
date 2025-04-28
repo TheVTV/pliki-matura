@@ -1,0 +1,22 @@
+7.1
+Data_rozgrywki	Nick		Tytuł		Trudność
+6/11/2019	Klikacz69	FlakiPycha	6
+7.2
+miesiac	ilosc rozrywek
+8	178
+9	121
+10	108
+6	102
+5	96
+7	87
+3	86
+2	63
+4	62
+11	58
+1	39
+12	0
+7.3
+Liczba Punktow	Nick		Data_dołączenia	Kraj
+22764		PolskaGurom	3/3/2021	Polska
+7.4
+2 graczy

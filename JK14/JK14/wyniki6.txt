@@ -1,0 +1,50 @@
+1. Bartek Informatyka 02.12.2025
+
+2.
+Etykiety wierszy	Suma z Należność
+Wiktor		2062,50
+Katarzyna	2040,00
+Bartek		1755,00
+Zuzanna		1540,00
+Jan		1520,00
+Julita		1295,00
+Maciej		1200,00
+Agnieszka	1192,50
+Zdzisław	1175,00
+Ewa		1100,00
+Zbigniew	1095,00
+Anna		780,00
+Patrycja	105,00
+Ola		90,00
+Piotrek		80,00
+Andrzej		60,00
+Marcin		50,00
+
+3. 5 kursantów
+
+4.
+AGNINF10	Agnieszka
+AGNMAT6		Agnieszka
+ANDINF1		Andrzej
+ANNINF10	Anna
+BARINF20	Bartek
+EWAMAT14	Ewa
+JANFIZ24	Jan
+JULFIZ7		Julita
+JULINF11	Julita
+KATINF24	Katarzyna
+MACFIZ22	Maciej
+MARMAT1		Marcin
+OLAINF1		Ola
+PATINF1		Patrycja
+PIOFIZ1		Piotrek
+WIKMAT29	Wiktor
+ZBIFIZ8		Zbigniew
+ZBIINF8		Zbigniew
+ZDZFIZ8		Zdzisław
+ZDZMAT10	Zdzisław
+ZUZINF12	Zuzanna
+ZUZMAT7		Zuzanna
+
+5.
+27.02.2026 6260,37

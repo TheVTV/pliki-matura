@@ -1,0 +1,25 @@
+zad 7.1
+
+Nick	Data_rozgrywki	Wynik	Trudność
+Klikacz69	11.06.2019	100	6
+
+zad 7.2 
+
+PoliczOfID_rozgr	MiesiacRok
+178	yyyy-08
+121	yyyy-09
+108	yyyy-10
+102	yyyy-06
+96	yyyy-05
+87	yyyy-07
+86	yyyy-03
+63	yyyy-02
+62	yyyy-04
+58	yyyy-11
+39	yyyy-01
+
+zad 7.3
+
+
+zad 7.4
+19

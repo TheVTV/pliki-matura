@@ -1,0 +1,21 @@
+7.1
+11.06.2019	Klikacz69	FlakiPycha	6
+
+7.2
+sierpień	178
+wrzesień	121
+październik	108
+czerwiec	102
+maj	96
+lipiec	87
+marzec	86
+luty	63
+kwiecień	62
+listopad	58
+styczeń	39
+
+7.3
+PolskaGurom	Polska	03.03.2021	22764
+
+7.4
+2

@@ -1,0 +1,27 @@
+Zad. 1
+11.06.2019	Klikacz69	FlakiPycha	6
+
+Zad. 2
+8	178
+9	121
+10	108
+6	102
+5	96
+7	87
+3	86
+2	63
+4	62
+11	58
+1	39
+12      0
+
+Zad. 3
+PolskaGurom	Polska	3.03.2021	22758
+
+Zad. 4
+2
+
+Zad. 5
+SELECT Count(Gracze.ID) AS PoliczOfID
+FROM Gracze LEFT JOIN Turniej ON Gracze.[ID] = Turniej.[ID_gracza]
+WHERE (((Turniej.ID_gracza) Is Null));

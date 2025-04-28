@@ -1,0 +1,25 @@
+zadanie 7.1.
+Data_rozgrywki	Nick	Tytuł	Trudność
+11.06.2019	Klikacz69	FlakiPycha	6
+
+zadanie 7.2.
+Miesiac	PoliczOfID_rozgr
+8	178
+9	121
+10	108
+6	102
+5	96
+7	87
+3	86
+2	63
+4	62
+11	58
+1	39
+
+zadanie 7.3.
+Nick	Kraj	Data_dołączenia	liczba_punktow_doswiadczenia
+PolskaGurom	Polska	03.03.2021	2276556
+
+zadanie 7.4.
+2 graczy
+

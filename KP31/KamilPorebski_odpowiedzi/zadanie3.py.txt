@@ -1,0 +1,117 @@
+x = 750
+seq = [int(input()) for _ in range(x)]
+
+def rozklad_liczby(n):
+    rozklady = []
+    d = 2
+    while n > 1:
+        if n % d == 0:
+            rozklady.append(d)
+            n //= d
+        else:
+            d += 1
+
+    return rozklady
+
+def czy_parzysta(n):
+    if n % 2 == 0:
+        return True
+    return False
+
+def liczba_pierwsza(n):
+    x = 2
+    while x**2 <= n:
+        if n % x == 0:
+            return False
+        x += 1
+
+    return True
+
+def dzielniki_liczby(n):
+    que = []
+    d = 1
+    while d < n:
+        if n % d == 0:
+            que.append(d)
+        d += 1
+
+    return que
+
+
+def zwijanie(n):
+    kopia_n = n
+    zwij = rozklad_liczby(n)
+    counter = 2
+    kebabowa = []
+    liczby_parzyste = 0
+    liczby_nieparzyste = 0
+
+    while n != zwij[0]:
+        if czy_parzysta(n):
+            liczby_parzyste += 1
+        else:
+            liczby_nieparzyste += 1
+
+        kebabowa.append(n)
+        n = sum(zwij)
+        zwij = rozklad_liczby(sum(zwij))
+        counter += 1
+
+
+    if czy_parzysta(n):
+        liczby_parzyste += 2
+    else:
+        liczby_nieparzyste += 2
+
+    kebabowa.append(n)
+    kebabowa.append(n)
+
+    return sum(kebabowa)
+
+# max_zwij = 0
+# max_liczby = []
+
+# for i in seq:
+#     dlugosc, liczba = zwijanie(i)
+#
+#     if dlugosc >= max_zwij:
+#         if dlugosc > max_zwij:
+#             max_liczby = []
+#         max_zwij = dlugosc
+#         max_liczby.append(liczba)
+
+# plaindrom = 0
+# pierwsze = 0
+#
+# for i in seq:
+#     liczba = zwijanie(i)
+#
+#     if liczba_pierwsza(liczba):
+#         plaindrom += 1
+#
+#     tekst_liczba = f"{liczba}"
+#
+#     if liczba == int(tekst_liczba[::-1]):
+#         pierwsze += 1
+#
+# print(plaindrom)
+# print(pierwsze)
+#
+# counter = 0
+#
+# for i in seq:
+#     p, n = zwijanie(i)
+#
+#     if p == n:
+#         counter += 1
+#
+
+counter = 0
+
+for i in seq:
+    liczba = zwijanie(i)
+    sum_dziel = sum(dzielniki_liczby(liczba))
+    if liczba == sum_dziel:
+        counter += 1
+
+print(counter)

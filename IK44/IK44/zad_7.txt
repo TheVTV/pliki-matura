@@ -1,0 +1,36 @@
+7.1
+
+
+
+SELECT r.Data_rozgrywki ,g.Nick, m.Tytuł, m.Trudność
+FROM `rozgrywki` r 
+inner join gracze g on g.ID = r.ID_gracza
+inner join mapy m on m.ID = r.ID_mapy
+where r.Wynik = 100
+order by r.Data_rozgrywki
+limit 1;
+
+7.2
+SELECT substr(r.Data_rozgrywki, 1, 2) as miesiac, count(*) as liczba_rozgrywek
+FROM `rozgrywki` r 
+inner join gracze g on g.ID = r.ID_gracza
+inner join mapy m on m.ID = r.ID_mapy
+WHERE substr(r.Data_rozgrywki, 7, 4) = '2020'
+group by substr(r.Data_rozgrywki, 1, 2) 
+order by count(*) desc;
+
+
+7.4
+
+select count(*) 
+from gracze 
+where ID  not in (SELECT g.ID
+FROM `rozgrywki` r 
+inner join gracze g on g.ID = r.ID_gracza
+inner join mapy m on m.ID = r.ID_mapy
+where m.Tytuł = 'Ulica Rockefellera (Turbo Mix)')
+and ID in (SELECT g.ID
+FROM `rozgrywki` r 
+inner join gracze g on g.ID = r.ID_gracza
+inner join mapy m on m.ID = r.ID_mapy
+where m.Tytuł = 'MEGALOMAŁA');
